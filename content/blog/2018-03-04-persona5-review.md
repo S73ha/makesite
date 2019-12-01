@@ -1,4 +1,4 @@
-<!-- title: Persona 5: An Afterthought -->
+<!-- title: Persona 5: Afterthought -->
 
 ![Persona 5 Cover](../../resources/p5/1.jpeg)
 _**Disclaimer**: This is not a critical review and by no means a comprehensive
