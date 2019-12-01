@@ -1,9 +1,10 @@
 /* General */
 body {
     margin: 0;
-    line-height: 1.5em;
+    line-height: 1.75em;
     color: white;
     font-family: Inconsolata;
+    text-align: justify;
     background: #272822;
 }
 
@@ -144,4 +145,9 @@ div .more {
 /* custom css */
 .keyword {
   color: #fd971f;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
 }
