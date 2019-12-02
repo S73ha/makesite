@@ -1,4 +1,4 @@
-<!-- title: Definition of sucess -->
+<!-- title: Definition of success -->
 
 _This post was written more than 3 years ago. Hence the viewpoint in this article doesn't fully reflect the way I think right now. I'm including it on this website as a homage to my past self_
 
